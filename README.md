@@ -1,4 +1,4 @@
-# Edge Rewiring Goes Neural: Boosting Network Resilience via Policy Gradient
+# Learning to Boost Resilience of Complex Networks via Neural Edge Rewiring
 
 
 
